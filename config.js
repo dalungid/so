@@ -1,7 +1,7 @@
 const chalk = require("chalk")
 const fs = require("fs")
 
-global.ownerNumber = ["6285712560949@s.whatsapp.net",""6285641130146@s.whatsapp.net""]
+global.ownerNumber = ["6285712560949@s.whatsapp.net","6285641130146@s.whatsapp.net"]
 global.nomerOwner = "6285777785464"
 global.nomorOwner = ["6285712560949","6285641130146"]
 global.namaDeveloper = "𝐀𝐧𝐝𝐫𝐚𝐙𝐲𝐲" //jangn diubh bng
